@@ -1,0 +1,19 @@
+{
+  "name": "timestamp",
+  "version": "0.0.1",
+  "description": "free code camp timestamp-microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gomez-Angel/fcc-timestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gomez-Angel/fcc-timestamp/issues"
+  },
+  "homepage": "https://github.com/Gomez-Angel/fcc-timestamp#readme"
+}
